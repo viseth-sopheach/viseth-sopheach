@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm [Your Name]
+# Hi, I'm [Viseth Sopheach]
 
 **Full-Stack Developer**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=333&style=flat-square)
 
 </div>
 
@@ -12,7 +10,9 @@
 
 ## About
 
-I build web applications — clean interfaces on the front, solid systems on the back. I care about writing code that is readable, maintainable, and actually solves problems.
+Web Developer with hands-on experience building functional, visually polished web applications from the ground up. Proficient in HTML, CSS, JavaScript, and React.js for crafting responsive, interactive frontends styled with Tailwind CSS and Bootstrap. On the backend,
+experienced with PHP and Laravel to develop clean, structured server-side logic and RESTful APIs. Works confidently with MySQL and PostgreSQL for data
+modeling and persistence, and manages projects reliably through Git and GitHub.
 
 ---
 
@@ -41,21 +41,9 @@ I build web applications — clean interfaces on the front, solid systems on the
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
 
-## Stats
 
-<div align="center">
+## Connect With Me
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-333?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+- Telegram: https://t.me/viseth_sopheach
+- Facebook: https://web.facebook.com/visethsopheach
