@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Viseth Sopheach]
+# Hi, I'm Viseth Sopheach
 
 **Full-Stack Developer**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## About
+## Profile
 
 Web Developer with hands-on experience building functional, visually polished web applications from the ground up. Proficient in HTML, CSS, JavaScript, and React.js for crafting responsive, interactive frontends styled with Tailwind CSS and Bootstrap. On the backend,
 experienced with PHP and Laravel to develop clean, structured server-side logic and RESTful APIs. Works confidently with MySQL and PostgreSQL for data
@@ -44,6 +44,6 @@ modeling and persistence, and manages projects reliably through Git and GitHub.
 
 
 ## Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/viseth_sopheach)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/visethsopheach)
 
-- Telegram: https://t.me/viseth_sopheach
-- Facebook: https://web.facebook.com/visethsopheach
