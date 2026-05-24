@@ -2,7 +2,7 @@
 
 # Hi, I'm Viseth Sopheach
 
-**Full-Stack Developer**
+**Full-Stack Web Developer**
 
 </div>
 
